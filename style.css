@@ -77,12 +77,14 @@ main{
 .ulu{
     
     font-weight: bold;
+    margin-bottom: 30px;
+    font-family: system-ui;
 }
 li{
     list-style-type: none;
-    font-weight: 200;
+    font-weight: 400;
     margin-top: 15px;
-   
+    
 }
 .check{
     color: green;
@@ -129,4 +131,17 @@ li{
     font-size: 10px;
     font-weight: bold;
     border-radius: 10px;
+}
+.edit-3{
+    background-color: orange;
+    border-color: orange;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 1;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
 /* main */
