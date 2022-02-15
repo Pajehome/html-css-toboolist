@@ -4,6 +4,7 @@ body{
     box-sizing: border-box;
     background-color: rgb(236, 236, 236)
 }
+/* header */
 header{
     width: 100%;
     height: 110px;
@@ -58,3 +59,74 @@ nav{
     font-weight: bold;
     border-radius: 3px;
 }
+/* nav */
+
+/* main */
+main{
+    width: 800px;
+    height: 800px;
+    margin: 60px auto;
+    background-color: white;
+    background-size: cover;
+    border-radius: 5px;
+    position: relative;
+    bottom: 56px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.ulu{
+    
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+    font-weight: 200;
+    margin-top: 15px;
+   
+}
+.check{
+    color: green;
+    border: 1px solid green;
+    padding: 2px;
+    border-radius: 50%;
+
+}
+.ics{
+    color: red;
+    border: 1px solid red;
+    padding: 2px;
+    border-radius: 50%;
+}
+.edit{
+    background-color: #21aff3;
+    border-color: #21aff3;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 1;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.edit-1{
+    background-color: #a621f3;
+    border-color: #a621f3;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 1;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.edit-2{
+    background-color: green;
+    border-color: #13be4caf;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 1;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+/* main */
