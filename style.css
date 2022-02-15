@@ -143,5 +143,26 @@ li{
     font-weight: bold;
     border-radius: 10px;
 }
+.edit-4{
+    background-color:fuchsia;
+    border-color: fuchsia;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 1;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.edit-5{background-color:greenyellow;
+border-color: greenyellow;
+color: white;
+width: 100px;
+height: 25px;
+font-size: 1;
+font-size: 10px;
+font-weight: bold;
+border-radius: 10px;
+}
 
 /* main */
